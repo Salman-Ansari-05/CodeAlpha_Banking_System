@@ -87,7 +87,7 @@ banking.exe
 Enter your choice: 1
 
 Enter account number: 101
-Enter account holder name: Aditya Jadhav
+Enter account holder name: Salman Ansari
 Enter initial deposit: 5000
 
 Account created successfully!
