@@ -40,7 +40,7 @@ Banking-System/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Salman-Ansari-05/CodeAlpha_Banking_System.git
 ```
 
 ### 2. Navigate to the Project Directory
