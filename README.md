@@ -123,4 +123,31 @@ This project demonstrates practical applications of the following C programming 
 
 - **Functions:** Organizing code into reusable blocks.
 - **Structures:** Grouping account details into a single data type.
-- **File Handling:** Reading and
+- **File Handling:** Reading and writing account information to a file.
+- **Pointers:** Working with file pointers.
+- **Loops:** Repeating the menu until the user exits.
+- **Conditional Statements:** Validating transactions and account details.
+- **Switch Statements:** Selecting operations based on user input.
+
+## 🚀 Future Improvements
+
+- Prevent duplicate account numbers.
+- Add account authentication using a PIN.
+- Display transaction history.
+- Add account deletion functionality.
+- Improve input validation and error handling.
+- Generate transaction receipts.
+
+## ⚠️ Disclaimer
+
+This project is developed for **educational purposes only**. It is not intended for real banking transactions or the storage of sensitive financial information.
+
+## 👨‍💻 Author
+
+**SALMAN ANSARI**
+
+BCA Student | Aspiring Developer
+
+---
+
+⭐ If you find this project useful, consider giving the repository a star!
